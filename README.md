@@ -2,27 +2,11 @@
 
 A Computer Science student at The Hebrew University of Jerusalem. I thrive on challenges and love turning complex ideas into reality.
 
-## 🌟 Featured Projects
 
-### 🎨 Artful Ascii
-
-Java-based ASCII art generator check it out here
-[here](https://github.com/DHvaicrker/AsciiArt)
-
-### 🗜️ Archiver
-
-Powerful archiving tool with GUI, Huffman compression, and strong encryption 🔒 
+## Resent Project
+🗜️ Archiver Powerful archiving tool with GUI, Huffman compression, and strong encryption 🔒 check it out 
 [here](https://github.com/DHvaicrker/Compressor)
 
-### 🧠 Custom Memory Allocator
-
-Low-level memory management in C ⚙️
-[here](https://github.com/DHvaicrker/MemoryAllocator)
-
-### 🔍 Facial Recognition Security System
-
-Real-time facial recognition for enhanced security 👀
-[here](https://github.com/DHvaicrker/Distributed-Facial-Recognition-Wanted-System)
 
 ## 🛠️ Skills
 
