@@ -3,7 +3,7 @@
 A Computer Science student at The Hebrew University of Jerusalem. I thrive on challenges and love turning complex ideas into reality.
 
 
-## Resent Project
+## Recent Project
 🗜️ Archiver Powerful archiving tool with GUI, Huffman compression, and strong encryption 🔒 check it out 
 [here](https://github.com/DHvaicrker/Compressor)
 
