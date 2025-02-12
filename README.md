@@ -19,7 +19,7 @@ A Computer Science student at The Hebrew University of Jerusalem. I thrive on ch
 * **Other:**  GUI Development, Computer Vision, Networking, Memory Management, Multi-threading, Version Control (Git), Unit Testing, Debugging
 
 * **Computer Science Fundamentals:**  Operating Systems, Computer Architecture, Networks, Databases, Theory of Computation
-* 
+
 ## 🎓 Education
 
 The Hebrew University of Jerusalem - B.Sc. Computer Science (2026)
