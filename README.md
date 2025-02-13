@@ -22,4 +22,4 @@ A Computer Science student at The Hebrew University in Jerusalem. I thrive on ch
 
 ## 🎓 Education
 
-The Hebrew University of Jerusalem - B.Sc. Computer Science (2026)
+The Hebrew University in Jerusalem - B.Sc. Computer Science (2026)
