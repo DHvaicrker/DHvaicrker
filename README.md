@@ -16,7 +16,7 @@ A Computer Science student at The Hebrew University of Jerusalem. I thrive on ch
 
 * **General:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Design Patterns
 * **Security:**  Encryption, Hashing, Secure Coding Practices, SQL Injection Prevention, Brute-Force Protection, TLS/SSL, Authentication, Authorization
-* **Other:**  GUI Development, Computer Vision, Networking, Memory Management, Multi-threading, Version Control (Git), Unit Testing, Debugging
+* **Other:**  GUI Development, Networking, Memory Management, Multi-threading, Version Control (Git), Unit Testing, Debugging
 
 * **Computer Science Fundamentals:**  Operating Systems, Computer Architecture, Networks, Databases, Theory of Computation
 
