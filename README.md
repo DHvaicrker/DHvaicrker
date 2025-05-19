@@ -4,7 +4,7 @@ A Computer Science student at The Hebrew University in Jerusalem. I thrive on ch
 
 
 ## Recent Project
-public transit navigator based on the RAPTOR algorithm with latency prediction model based on ML check it out 
+🚍 Public Transit Navigator based on the RAPTOR algorithm 🧭 with a Latency Prediction Model powered by Machine Learning
 [here](https://github.com/DHvaicrker/OttoTo-PTN)
 
 
