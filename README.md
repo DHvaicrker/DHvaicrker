@@ -4,8 +4,8 @@ A Computer Science student at The Hebrew University in Jerusalem. I thrive on ch
 
 
 ## Recent Project
-🗜️ Archiver Powerful archiving tool with GUI, Huffman compression, and strong encryption 🔒 check it out 
-[here](https://github.com/DHvaicrker/Compressor)
+public transit navigator based on the RAPTOR algorithm with latency prediction model based on ML check it out 
+[here](https://github.com/DHvaicrker/OttoTo-PTN)
 
 
 ## 🛠️ Skills
