@@ -15,10 +15,10 @@ A Computer Science student at The Hebrew University in Jerusalem. I thrive on ch
 **Software Development Concepts:**
 
 * **General:** Machine Learning, Object-Oriented Programming (OOP), Data Structures, Algorithms, Design Patterns.
-* **Security:**  Encryption, Hashing, Secure Coding Practices, SQL Injection Prevention, Brute-Force Protection, TLS/SSL.
-* **Other:**  GUI Development, Networking, Memory Management, Multi-threading, Version Control (Git), Unit Testing, Debugging.
-
-* **Computer Science Fundamentals:** Computer Architecture, Theory of Computation, Databases, Networks,  Operating Systems.
+* **Computer Vision & Image Processing**: Fourier Transform (DFT, STFT), Convolution & Edge Detection, Image Pyramids (Gaussian/Laplacian), Image Stitching & Mosaicing, Noise Reduction.
+* **Cyber Security & Networking:** Network Attacks (DNS Cache Poisoning, HTTP/Proxy Attacks, TCP/IP), Binary Exploitation (Buffer Overflow, ROP, Memory Protections), Web Application Attacks, Secure Coding, Encryption (TLS/SSL) & Hashing.
+* **Other:**  GUI Development,Memory Management, Multi-threading, Version Control (Git).
+* **Computer Science:** Cryptography ,Bayesian ML, Theory of Computation, Databases, Networks,  Operating Systems.
 
 ## 🎓 Education
 
