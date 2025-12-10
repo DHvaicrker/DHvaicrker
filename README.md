@@ -1,4 +1,4 @@
-# Dvir Perahya - Software Developer 
+# Dvir Perahya 
 
 A Computer Science student at The Hebrew University in Jerusalem. I thrive on challenges and love turning complex ideas into reality.
 
