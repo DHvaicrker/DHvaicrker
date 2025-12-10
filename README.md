@@ -10,7 +10,7 @@ A Computer Science student at The Hebrew University in Jerusalem. I thrive on ch
 
 ## 🛠️ Skills
 
-**Programming Languages:** Python, Java, C, C++, C#, Assembly.
+**Programming Languages:** Python, Java, C, C++.
 
 **Software Development Concepts:**
 
